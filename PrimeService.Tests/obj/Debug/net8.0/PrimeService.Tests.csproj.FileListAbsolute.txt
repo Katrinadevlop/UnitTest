@@ -100,3 +100,4 @@ C:\Users\katya\Desktop\unit-testing-using-nunit\PrimeService.Tests\obj\Debug\net
 C:\Users\katya\Desktop\unit-testing-using-nunit\PrimeService.Tests\obj\Debug\net8.0\PrimeService.Tests.pdb
 C:\Users\katya\Desktop\unit-testing-using-nunit\PrimeService.Tests\obj\Debug\net8.0\PrimeService.Tests.genruntimeconfig.cache
 C:\Users\katya\Desktop\unit-testing-using-nunit\PrimeService.Tests\obj\Debug\net8.0\ref\PrimeService.Tests.dll
+C:\Users\katya\Desktop\unit-testing-using-nunit\PrimeService.Tests\obj\Debug\net8.0\PrimeService.Tests.sourcelink.json
